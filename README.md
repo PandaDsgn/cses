@@ -1,1 +1,1 @@
-# cses
+Solutions to cses.fi problems
